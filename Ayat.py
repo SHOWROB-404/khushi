@@ -170,7 +170,7 @@ def main():
     jalan(' \033[1;93m××××××××××××××××××××××××××××××××××××××××××××××××')
     jalan(' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m BD CODE ~ \033[1;91m+88016 \033[1;32m+88017 \033[1;94m+88018 \033[1;95m+88019')
     jalan(' \033[1;93m××××××××××××××××××××××××××××××××××××××××××××××××')
-    kode = input(' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m CHOOSE YOUR COUNTRY CODE :\033[1;32m'+kode)
+    kode = input(' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m CHOOSE YOUR COUNTRY CODE :\033[1;32m ')
     os.system('xdg-open https://www.facebook.com/its.me.showrob.okh')
     os.system('clear')
     print(khld)    
@@ -260,5 +260,3 @@ def rcrack(uid,pwx,tl):
 	except:
 		pass
 ALEX()
-
-    
