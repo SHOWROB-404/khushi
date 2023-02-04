@@ -37,45 +37,6 @@ os.system('xdg-open https://facebook.com/groups/darkforceofficials/')
 def ALEX():
     os.system('clear')
     jalan(logo)
-    jalan(' \033[1;91m[\033[1;97mA\033[1;91m]\033[1;92m R4NDOM BD CLONING \033[1;91m[\033[1;97mWorking\033[1;91m] ')import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
-from bs4 import BeautifulSoup as sop
-from concurrent.futures import ThreadPoolExecutor as ThreadPool
-import os
-import random
-import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
-from bs4 import BeautifulSoup as sop
-from concurrent.futures import ThreadPoolExecutor as tred
-import base64
-import os,sys,time,json,random,re,string,platform,base64
-import requests
-from concurrent.futures import ThreadPoolExecutor as ThreadPool
-import mechanize
-from requests.exceptions import ConnectionError
-import string
-try:
-    import requests
-except ImportError:
-    print('\n [✓] installing requests !...\n')
-    os.system('pip install requests')
-try:
-    import concurrent.futures
-except ImportError:
-    print('\n [✓] installing futures !...\n')
-    os.system('pip install futures')
-try:
-    import bs4
-except ImportError:
-    print('\n [✓] installing bs4 !...\n')
-    os.system('pip install bs4')
-
-import requests, os, re, bs4,platform, sys, json, time, random, datetime, subprocess, threading, itertools,base64,uuid,zlib
-from concurrent.futures import ThreadPoolExecutor as ahmadAXI
-from datetime import datetime
-from bs4 import BeautifulSoup
-os.system('xdg-open https://facebook.com/groups/darkforceofficials/')
-def ALEX():
-    os.system('clear')
-    jalan(logo)
     jalan(' \033[1;91m[\033[1;97mA\033[1;91m]\033[1;92m R4NDOM BD CLONING \033[1;91m[\033[1;97mWorking\033[1;91m] ')
     jalan(' \033[1;91m[\033[1;97mB\033[1;91m]\033[1;92m CONTACT ME FACEBOOK')
     jalan(' \033[1;91m[\033[1;97mC\033[1;91m]\033[1;92m FOLLOW GITHUB CCOUNT')
