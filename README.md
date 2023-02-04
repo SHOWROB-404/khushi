@@ -33,7 +33,7 @@
 
 - `cd khushi`
 
-- `python mew.py`
+- `python Ayat.py`
 
 
 
