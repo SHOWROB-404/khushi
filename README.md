@@ -33,7 +33,7 @@
 
 - `cd khushi`
 
-- `python Ayat.py`
+- `python Exxx.py`
 
 
 
